@@ -23,10 +23,9 @@ I am continuously improving my skills and working on personal projects.
 ## Projects
 
 ### 1. Online IT courses
-- Developed a fully responsive personal portfolio site using HTML, CSS, and JavaScript to showcase my skills and learning progress.
-
+- A simple website for online IT courses for students which is easy to use.
 ### 2. Temperature converter
-- A simple JavaScript application that allows users to add, delete, and mark tasks as complete. This project helped me understand DOM manipulation and event handling.
+- A simple JavaScript application that allows users to check the temperature in Celsius and in Fahrenheit.
 
 ## Contact
 
